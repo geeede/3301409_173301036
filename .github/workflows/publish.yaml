@@ -16,7 +16,7 @@ jobs:
       - uses: bluefireteam/flutter-gh-pages@v7
         with:
           webRenderer: html
-	      targetBranch: my-gh-pages-branch
+          targetBranch: my-gh-pages-branch
 	      baseHref: /3301409_173301036/
           workingDir: web
 
