@@ -20,7 +20,7 @@ jobs:
         with:
           webRenderer: html
           targetBranch: gh-pages
-          baseHref: /3301409_173301036/
+          #baseHref: /3301409_173301036/
           workingDir: web
 
 
