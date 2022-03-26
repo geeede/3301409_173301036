@@ -3,4 +3,4 @@ String newsapi_api_url = "https://newsapi.org/v2/top-headlines?country=tr&apiKey
 
 // flutter run -d edge --web-renderer html // to run the app
 //
-// flutter build web --web-renderer html --release // to generate a production build
+// flutter build web --web-renderer html --release --base-href '/3301409_173301036/'     // to generate a production build
