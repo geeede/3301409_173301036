@@ -15,8 +15,8 @@ jobs:
       - run: flutter test
       - uses: bluefireteam/flutter-gh-pages@v7
         with:
-          workingDir: web
-	      webRenderer: html
-	      targetBranch: my-gh-pages-branch
-	      baseHref: /3301409_173301036/
+            workingDir: web
+	        webRenderer: html
+	        targetBranch: my-gh-pages-branch
+	        baseHref: /3301409_173301036/
 
