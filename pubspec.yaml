@@ -32,6 +32,7 @@ dependencies:
   cached_network_image: ^3.2.0
   http: ^0.13.3
   url_launcher: ^6.0.10
+  fluttertoast: ^8.0.9
 
 dev_dependencies:
   flutter_test:
@@ -52,6 +53,7 @@ flutter:
   assets:
     - assets/
     - assets/images/404.png
+    - assets/images/hakkinda.png
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 

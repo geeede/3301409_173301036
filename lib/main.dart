@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:kulaktan_dolma_bilgiler/dashboard.dart';
+import 'package:kulaktan_dolma_bilgiler/0_karsilama.dart';
+import 'package:kulaktan_dolma_bilgiler/4_dashboard.dart';
 
 void main() {
   runApp(MyApp());
@@ -24,7 +25,7 @@ class MyApp extends StatelessWidget {
 
         primarySwatch: Colors.grey,
       ),
-      home: DashboardClass(title: 'Flutter Demo Home Page'),
+      home: IlkEkran(),
     );
   }
 }

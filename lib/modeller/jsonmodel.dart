@@ -76,7 +76,7 @@ class Articles {
 }
 
 class Source {
-  Null? id;
+  var id;
   String? name;
 
   Source({this.id, this.name});
