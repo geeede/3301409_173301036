@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "646811746421",
+    "project_id": "okulproj",
+    "storage_bucket": "okulproj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646811746421:android:23c0d94e6f9959fe0fb83c",
+        "android_client_info": {
+          "package_name": "com.gkbrk.kdb.kulaktan_dolma_bilgiler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646811746421-9n1u541lh548hgj4v8mfjbjn61u5e41v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-OM0fIPGDNIP7t7cQqR_zoD4OeQy5dX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646811746421-9n1u541lh548hgj4v8mfjbjn61u5e41v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
